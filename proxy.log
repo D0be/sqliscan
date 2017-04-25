@@ -1,0 +1,131 @@
+[2017-04-12 20:41:17] INFO  WEBrick 1.3.1
+[2017-04-12 20:41:17] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-12 20:41:54] INFO  WEBrick 1.3.1
+[2017-04-12 20:41:54] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-12 20:42:23] INFO  WEBrick 1.3.1
+[2017-04-12 20:42:23] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-12 20:42:23] INFO  WEBrick::HTTPProxyServer#start: pid=12528 port=8080
+[2017-04-12 20:43:16] FATAL Interrupt: 
+	D:/Ruby23-x64/lib/ruby/2.3.0/webrick/server.rb:177:in `select'
+	D:/Ruby23-x64/lib/ruby/2.3.0/webrick/server.rb:177:in `block in start'
+	D:/Ruby23-x64/lib/ruby/2.3.0/webrick/server.rb:33:in `start'
+	D:/Ruby23-x64/lib/ruby/2.3.0/webrick/server.rb:164:in `start'
+	proxy.rb:51:in `start'
+	proxy.rb:56:in `<main>'
+[2017-04-12 20:43:16] INFO  going to shutdown ...
+[2017-04-12 20:43:16] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-12 20:45:23] INFO  WEBrick 1.3.1
+[2017-04-12 20:45:23] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-12 20:45:23] INFO  WEBrick::HTTPProxyServer#start: pid=26100 port=8080
+[2017-04-12 20:52:33] INFO  going to shutdown ...
+[2017-04-12 20:52:33] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-13 15:29:15] INFO  WEBrick 1.3.1
+[2017-04-13 15:29:15] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-13 15:29:15] INFO  WEBrick::HTTPProxyServer#start: pid=23528 port=8080
+[2017-04-13 15:29:18] INFO  going to shutdown ...
+[2017-04-13 15:29:18] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-13 15:34:47] INFO  WEBrick 1.3.1
+[2017-04-13 15:34:47] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-13 15:34:47] INFO  WEBrick::HTTPProxyServer#start: pid=10988 port=8080
+[2017-04-13 15:36:07] INFO  going to shutdown ...
+[2017-04-13 15:36:07] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-13 15:36:39] INFO  WEBrick 1.3.1
+[2017-04-13 15:36:39] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-13 15:36:39] INFO  WEBrick::HTTPProxyServer#start: pid=20608 port=8080
+[2017-04-13 15:36:55] INFO  going to shutdown ...
+[2017-04-13 15:36:55] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-13 15:37:57] INFO  WEBrick 1.3.1
+[2017-04-13 15:37:57] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-13 15:37:57] INFO  WEBrick::HTTPProxyServer#start: pid=22976 port=8080
+[2017-04-13 15:38:16] INFO  going to shutdown ...
+[2017-04-13 15:38:16] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-13 15:40:16] INFO  WEBrick 1.3.1
+[2017-04-13 15:40:16] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-13 15:40:16] INFO  WEBrick::HTTPProxyServer#start: pid=19160 port=8080
+[2017-04-13 15:40:58] INFO  going to shutdown ...
+[2017-04-13 15:40:59] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-13 15:41:46] INFO  WEBrick 1.3.1
+[2017-04-13 15:41:46] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-13 15:41:46] INFO  WEBrick::HTTPProxyServer#start: pid=28924 port=8080
+[2017-04-13 15:42:48] INFO  going to shutdown ...
+[2017-04-13 15:42:48] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-13 15:42:52] INFO  WEBrick 1.3.1
+[2017-04-13 15:42:52] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-13 15:42:52] INFO  WEBrick::HTTPProxyServer#start: pid=9928 port=8080
+[2017-04-13 15:43:21] INFO  going to shutdown ...
+[2017-04-13 15:43:21] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-13 15:43:23] INFO  WEBrick 1.3.1
+[2017-04-13 15:43:23] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-13 15:43:23] INFO  WEBrick::HTTPProxyServer#start: pid=19864 port=8080
+[2017-04-13 15:44:06] INFO  going to shutdown ...
+[2017-04-13 15:44:06] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-13 15:44:17] INFO  WEBrick 1.3.1
+[2017-04-13 15:44:17] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-13 15:44:17] INFO  WEBrick::HTTPProxyServer#start: pid=21696 port=8080
+[2017-04-13 15:44:23] INFO  going to shutdown ...
+[2017-04-13 15:44:23] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-13 15:44:46] INFO  WEBrick 1.3.1
+[2017-04-13 15:44:46] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-13 15:44:46] INFO  WEBrick::HTTPProxyServer#start: pid=24192 port=8080
+[2017-04-13 15:44:58] INFO  going to shutdown ...
+[2017-04-13 15:44:58] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-13 15:45:00] INFO  WEBrick 1.3.1
+[2017-04-13 15:45:00] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-13 15:45:00] INFO  WEBrick::HTTPProxyServer#start: pid=14796 port=8080
+[2017-04-13 15:45:14] INFO  going to shutdown ...
+[2017-04-13 15:45:14] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-25 18:25:50] INFO  WEBrick 1.3.1
+[2017-04-25 18:25:50] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-25 18:25:50] INFO  WEBrick::HTTPProxyServer#start: pid=4276 port=8080
+[2017-04-25 18:29:42] INFO  going to shutdown ...
+[2017-04-25 18:29:42] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-25 20:49:33] INFO  WEBrick 1.3.1
+[2017-04-25 20:49:33] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-25 20:49:33] INFO  WEBrick::HTTPProxyServer#start: pid=6452 port=8080
+[2017-04-25 20:50:05] INFO  going to shutdown ...
+[2017-04-25 20:50:05] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-25 20:50:46] INFO  WEBrick 1.3.1
+[2017-04-25 20:50:46] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-25 20:50:46] INFO  WEBrick::HTTPProxyServer#start: pid=11680 port=8080
+[2017-04-25 20:51:04] INFO  going to shutdown ...
+[2017-04-25 20:51:04] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-25 20:52:24] INFO  WEBrick 1.3.1
+[2017-04-25 20:52:24] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-25 20:52:24] INFO  WEBrick::HTTPProxyServer#start: pid=9660 port=8080
+[2017-04-25 20:54:54] INFO  going to shutdown ...
+[2017-04-25 20:54:54] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-25 20:56:02] INFO  WEBrick 1.3.1
+[2017-04-25 20:56:02] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-25 20:56:02] INFO  WEBrick::HTTPProxyServer#start: pid=9124 port=8080
+[2017-04-25 20:56:52] INFO  going to shutdown ...
+[2017-04-25 20:56:52] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-25 20:57:16] INFO  WEBrick 1.3.1
+[2017-04-25 20:57:16] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-25 20:57:16] INFO  WEBrick::HTTPProxyServer#start: pid=1976 port=8080
+[2017-04-25 20:58:17] INFO  going to shutdown ...
+[2017-04-25 20:58:17] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-25 21:08:03] INFO  WEBrick 1.3.1
+[2017-04-25 21:08:03] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-25 21:08:03] INFO  WEBrick::HTTPProxyServer#start: pid=2832 port=8080
+[2017-04-25 21:10:22] INFO  going to shutdown ...
+[2017-04-25 21:10:22] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-25 21:10:26] INFO  WEBrick 1.3.1
+[2017-04-25 21:10:26] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-25 21:10:26] INFO  WEBrick::HTTPProxyServer#start: pid=9288 port=8080
+[2017-04-25 21:13:26] INFO  going to shutdown ...
+[2017-04-25 21:13:26] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-25 21:16:52] INFO  WEBrick 1.3.1
+[2017-04-25 21:16:52] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-25 21:16:52] INFO  WEBrick::HTTPProxyServer#start: pid=10808 port=8080
+[2017-04-25 21:17:29] INFO  going to shutdown ...
+[2017-04-25 21:17:29] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-25 21:17:32] INFO  WEBrick 1.3.1
+[2017-04-25 21:17:32] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-25 21:17:32] INFO  WEBrick::HTTPProxyServer#start: pid=10544 port=8080
+[2017-04-25 21:18:15] INFO  going to shutdown ...
+[2017-04-25 21:18:16] INFO  WEBrick::HTTPProxyServer#start done.
+[2017-04-25 21:20:29] INFO  WEBrick 1.3.1
+[2017-04-25 21:20:29] INFO  ruby 2.3.3 (2016-11-21) [x64-mingw32]
+[2017-04-25 21:20:29] INFO  WEBrick::HTTPProxyServer#start: pid=3232 port=8080
+[2017-04-25 21:24:54] INFO  going to shutdown ...
+[2017-04-25 21:24:54] INFO  WEBrick::HTTPProxyServer#start done.
